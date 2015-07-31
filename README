@@ -1,3 +1,10 @@
+This is a fork to apply fixes needed for uWSGI to work on libmusl
+
+The patches have been taken from 
+http://git.alpinelinux.org/cgit/aports/tree/main/uwsgi
+
+------------------------------------------------------
+
 The uWSGI project
 
 For official documentation check: https://uwsgi-docs.readthedocs.org/en/latest/
